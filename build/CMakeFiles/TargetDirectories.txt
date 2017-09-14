@@ -1,0 +1,6 @@
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/data_ros_wrapper.dir
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/offline_slam.dir
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/online_features.dir
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/online_slam.dir
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/online_tracking.dir
+/home/adam/Documents/archive/perceptIn/PIRVS_SDK/PIRVS_SDK/PIRVS_SDK_V0.4.2_duplicate/build/CMakeFiles/online_viewer.dir

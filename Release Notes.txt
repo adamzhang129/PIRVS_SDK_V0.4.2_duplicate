@@ -1,0 +1,20 @@
+Release Notes
+
+V0.4.2 5/7/2017
+General bug fixes and performance improvements.
+
+V0.4.0 4/19/2017
+Fast motion improvement.
+Ubuntu 16.04 support.
+Re-localization support on offline and online SLAM.
+Remove Boost library dependency.
+General bug fixes and performance improvements.
+
+
+
+
+
+
+========================
+cmake -DCMAKE_PREFIX_PATH=~/Documents/archive/opencv_intall/opencv3/opencv-3.3.0/release  ..
+
